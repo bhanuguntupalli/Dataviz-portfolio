@@ -4,7 +4,7 @@
 Using SQL, BigQuery, and Looker Studio, create an end-to-end analytics dashboard that goes beyond simple reporting to show business insight.
 
 ## What Was Completed
-- I created analytical SQL views using CTEs and window functions to analyze revenue trends, category performance, customer concentration, and cohort-based retention using the publicly available **theLook eCommerce** dataset.
+- Created analytical SQL views using CTEs and window functions to analyze revenue trends, category performance, customer concentration, and cohort-based retention using the publicly available **theLook eCommerce** dataset.
 - Looker Studio was used to illustrate the results, emphasizing executive-level storytelling, clarity, and insight.
 
 ## Tech Stack Used
